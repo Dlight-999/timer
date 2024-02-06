@@ -5,6 +5,7 @@
 .nav{
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 .main-content-container {
   max-width: 940px;
@@ -25,6 +26,20 @@
   padding-right: 10px;
   flex: 0 1 20%;
   
+}
+.Add{
+  display: flex;
+ justify-content: flex-end;
+}
+.Add button{
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+
+.ae{
+  display: flex;
+  justify-content: center;
 }
 
 
