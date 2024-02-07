@@ -41,6 +41,9 @@
   display: flex;
   justify-content: center;
 }
+.ae i:hover{
+ color: cyan;
+}
 
 
 @media (max-width: 500px) {
